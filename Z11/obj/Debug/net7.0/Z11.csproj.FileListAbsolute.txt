@@ -1,0 +1,15 @@
+C:\Users\Alexei\D_Z1\Zad_1\Z11\bin\Debug\net7.0\Z11.exe
+C:\Users\Alexei\D_Z1\Zad_1\Z11\bin\Debug\net7.0\Z11.deps.json
+C:\Users\Alexei\D_Z1\Zad_1\Z11\bin\Debug\net7.0\Z11.runtimeconfig.json
+C:\Users\Alexei\D_Z1\Zad_1\Z11\bin\Debug\net7.0\Z11.dll
+C:\Users\Alexei\D_Z1\Zad_1\Z11\bin\Debug\net7.0\Z11.pdb
+C:\Users\Alexei\D_Z1\Zad_1\Z11\obj\Debug\net7.0\Z11.csproj.AssemblyReference.cache
+C:\Users\Alexei\D_Z1\Zad_1\Z11\obj\Debug\net7.0\Z11.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Alexei\D_Z1\Zad_1\Z11\obj\Debug\net7.0\Z11.AssemblyInfoInputs.cache
+C:\Users\Alexei\D_Z1\Zad_1\Z11\obj\Debug\net7.0\Z11.AssemblyInfo.cs
+C:\Users\Alexei\D_Z1\Zad_1\Z11\obj\Debug\net7.0\Z11.csproj.CoreCompileInputs.cache
+C:\Users\Alexei\D_Z1\Zad_1\Z11\obj\Debug\net7.0\Z11.dll
+C:\Users\Alexei\D_Z1\Zad_1\Z11\obj\Debug\net7.0\refint\Z11.dll
+C:\Users\Alexei\D_Z1\Zad_1\Z11\obj\Debug\net7.0\Z11.pdb
+C:\Users\Alexei\D_Z1\Zad_1\Z11\obj\Debug\net7.0\Z11.genruntimeconfig.cache
+C:\Users\Alexei\D_Z1\Zad_1\Z11\obj\Debug\net7.0\ref\Z11.dll
